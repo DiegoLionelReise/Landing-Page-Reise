@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REISE - Capacitación y Coaching</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Evolución constante.</h1>
+        <p>En REISE transformamos la capacitación y el coaching en herramientas de cambio, potenciando cada espacio de tu organización.</p>
+        <a href="#contacto" class="btn">Conversemos</a>
+    </section>
+
+    <!-- Sección REISE -->
+    <section class="reise">
+        <h2>¿Qué es REISE?</h2>
+        <div class="reise-grid">
+            <div class="card"> <h3>R</h3> <p>Red de colaboración para el aprendizaje continuo.</p> </div>
+            <div class="card"> <h3>E</h3> <p>Empoderar personas para que lideren sus cambios.</p> </div>
+            <div class="card"> <h3>I</h3> <p>Innovar en experiencias de aprendizaje.</p> </div>
+            <div class="card"> <h3>S</h3> <p>Sostener el crecimiento con herramientas prácticas.</p> </div>
+            <div class="card"> <h3>E</h3> <p>Experiencias significativas que generan impacto.</p> </div>
+        </div>
+    </section>
+
+    <!-- Sección "Por qué elegirnos" -->
+    <section class="porque">
+        <h2>¿Por qué elegirnos?</h2>
+        <p>Más de 20 años siendo protagonistas en el desarrollo y la transformación de profesionales y equipos.</p>
+        <p>Creemos que el aula es un lugar potente para generar impacto y que una buena conversación de coaching puede abrir grandes posibilidades de futuro.</p>
+    </section>
+
+    <!-- Testimonios -->
+    <section class="testimonios">
+        <h2>Lo que dicen nuestros clientes</h2>
+        <blockquote>"REISE transformó la forma en que nuestro equipo trabaja. ¡Increíble experiencia de aprendizaje!"</blockquote>
+        <p>- Cliente satisfecho</p>
+    </section>
+
+    <!-- Contacto / CTA -->
+    <section class="cta" id="contacto">
+        <h2>¿Listo para comenzar tu viaje?</h2>
+        <a href="mailto:contacto@reise.com" class="btn">Escríbenos</a>
+    </section>
+</body>
+</html>

@@ -1,0 +1,68 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F9FAFC;
+    color: #002D5B;
+}
+
+.hero {
+    background-color: #002D5B;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #FFC857;
+    color: #002D5B;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.reise, .porque, .testimonios, .cta {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.reise-grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background-color: #1E7D4D;
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.testimonios {
+    background-color: #EAF2F8;
+}
+
+.cta {
+    background-color: #002D5B;
+    color: #FFFFFF;
+}
+
+.cta .btn {
+    background-color: #FFC857;
+    color: #002D5B;
+}
